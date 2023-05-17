@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image: url(../Assets/car-back.jpg);
+    background-image: url(https://beautifulpixels.com/wp-content/uploads/2015/11/horizon-chase-bp.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -20,9 +20,9 @@ body{
 }
 .Car {
     /* background-color: orange; */
-    background-image: url(../Assets/Car4.png);
+    background-image: url(https://freesvg.org/img/glibersat_Nioubiteul.png);
     background-size: 100% 100%;
-    width: 70px;
+    width: 140px;
     height: 130px;
     padding: 10;
     position: absolute;
@@ -30,9 +30,9 @@ body{
     bottom: 20px;
 }
 .other{
-    background-image: url(../Assets/vecteezy_sport-car_1193877.png);
+    background-image: url(https://www.seekpng.com/png/full/44-446913_45-top-view-of-car-clipart-images-green.png);
     background-size: 100% 100%;
-    width: 75px;
+    width: 70px;
     height: 130px;
     padding: 10;
     position: absolute;
